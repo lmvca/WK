@@ -1,0 +1,1026 @@
+Application name,"Business 
+Owner",IT Owner
+Enovia/Matrix,Nathantial Jeffries,Ashish Patnaik
+Test Expert,Jinfei Yan,Business Owned
+Customer Quote,Bruce Macgibbon,Melissa Lessard
+CM (Engineering Change Management),Bruce Macgibbon,Melissa Lessard
+PDV (Part Data Viewer for SAP),Bruce Macgibbon,Melissa Lessard
+Supplier Portal,Bruce MacGibbon,Melissa Lessard
+Quality,Bruce Macgibbon,Melissa Lessard
+Serializer,Bruce Macgibbon,Melissa Lessard
+Shop Floor,Bruce Macgibbon,Melissa Lessard
+Mentor Graphics,Gordon Yang,Jinhua Hou
+Mentor Graphics,Gordon Yang,Jinhua Hou
+Test Expert,Gordon Yang,Jinhua Hou
+ZWCAD,Gordon Yang,Jinhua Hou
+MCAD,,
+Item Change Request Form,Bruce Macgibbon,Melissa Lessard
+Altium,Pedro Hernández,Moises Lopez Moreno
+BoM creation tool,Pedro Hernández,Moises Lopez Moreno
+Solidworks,Pedro Hernández,Moises Lopez Moreno
+TestExpert,Pedro Hernández,Moises Lopez Moreno
+Testway,Pedro Hernández,Moises Lopez Moreno
+Cadence,Pedro Hernández,Eve Hou
+Valor,Pedro Hernández,Wayne Richings
+Test Expert,Wright Du,Wayne Richings
+Altium,Sorin Petre,Sorin Petre
+Altium,Ed Stodola,Ed Stodola
+CARE,Peter Barber,Wayne Richings
+CGP SVN - Subversion,Ed Stodola,Ed Stodola
+Essential Macleod,Peter Barber,Wayne Richings
+Git Hub,Ed Stodola,Ed Stodola
+NI Lab View,Sorin Petre,Sorin Petre
+NI LabView,Ed Stodola,Ed Stodola
+NI TestStand,Sorin Petre,Sorin Petre
+NI TestStand,Ed Stodola,Ed Stodola
+Non-CGP SVN - Subversion,Ed Stodola,Ed Stodola
+Orcad,Sorin Petre,Sorin Petre
+Solidworks,Kurt Braganza,Kurt Braganza
+TestExpert,Sorin Petre,Sorin Petre
+TestExpert,Ed Stodola,Ed Stodola
+Testway,Sorin Petre,Sorin Petre
+Testway,Ed Stodola,Ed Stodola
+Valor,Sorin Petre,Sorin Petre
+Valor,Ed Stodola,Kurt Braganza
+Zemax Optic Studio,Peter Barber,Wayne Richings
+Accruant Meridian,Peter Barber,Wayne Richings
+Altium Designer,Peter Barber,Wayne Richings
+Altium Designer,Peter Barber,Wayne Richings
+Altium Designer,Peter Barber,Wayne Richings
+Altium DXP(gerber viewer),Peter Barber,Wayne Richings
+ANSYS,Peter Barber,Wayne Richings
+Apple Developer Program,Kittipong,Wayne Richings
+arm-linux-gnueabih,Kittipong,Wayne Richings
+Autodesk,Peter Barber,Wayne Richings
+Autodesk CFD,Peter Barber,Wayne Richings
+Autodesk Inventor,Peter Barber,Wayne Richings
+BDI,Peter Barber,Wayne Richings
+Brady LabelMark,Bruce M,Wayne Richings
+Cadence/Allegro,Peter Barber,Wayne Richings
+Cadence/Concept,Peter Barber,Wayne Richings
+Cadence/ORCAD,Peter Barber,Wayne Richings
+Clip Project Professional marking,Bruce M,Wayne Richings
+Cogition cockpit,Peter Barber,Wayne Richings
+CST 3D EM STUDIO,Peter Barber,Wayne Richings
+Dameware,Peter Barber,Wayne Richings
+DFMPro,Peter Barber,Wayne Richings
+EasyEDA,Kittipong,Wayne Richings
+EDMS,Peter Barber,Wayne Richings
+Git,Kittipong,Wayne Richings
+GitLab (Front end for Git),Kittipong,Wayne Richings
+IAR systems complier (embedded),Kittipong,Wayne Richings
+IBM Doors,Peter Barber,Wayne Richings
+IntelliJ IDEA,Bruce M,Wayne Richings
+JIRA,Peter Barber,Wayne Richings
+Keil MDK Lite,Kittipong,Wayne Richings
+Labview,Peter Barber,Wayne Richings
+Labview Vision development module,Peter Barber,Wayne Richings
+Matlab-Simulink-Simscape,Peter Barber,Wayne Richings
+Microsoft Excel,Peter Barber,Wayne Richings
+Microsoft Project,Peter Barber,Wayne Richings
+Minitab,Peter Barber,Wayne Richings
+MPLAB X IDE/IPE,Kittipong,Wayne Richings
+NI Embedded Control & Monitoring Suite,Peter Barber,Wayne Richings
+NI Switch Executive,Peter Barber,Wayne Richings
+ORCAD,Peter Barber,Wayne Richings
+ProE,Peter Barber,Wayne Richings
+RedMine,Peter Barber,Wayne Richings
+RMsys,Peter Barber,Wayne Richings
+Smart Sheets,Peter Barber,Wayne Richings
+SolidEdge,Peter Barber,Wayne Richings
+SolidWorks,Peter Barber,Wayne Richings
+SolidWorks,Peter Barber,Wayne Richings
+Solidworks,Peter Barber,Wayne Richings
+Solidworks Electrical,Peter Barber,Wayne Richings
+SolidWorks Electrical,Peter Barber,Wayne Richings
+SolidWorks Electrical 3D,Peter Barber,Wayne Richings
+SolidWorks Flow Simulation,Peter Barber,Wayne Richings
+SolidWorks Flow Simulation Electronic Cooling,Peter Barber,Wayne Richings
+SolidWorks PDM Pro,Peter Barber,Wayne Richings
+SolidWorks PDM Standard,Peter Barber,Wayne Richings
+SolidWorks Plastics Standard,Peter Barber,Wayne Richings
+SubVersion (SVN),Bruce M,Wayne Richings
+SubVersion (SVN),Ed Stodola,Wayne Richings
+TestStand (NI),Peter Barber,Wayne Richings
+TestWay,Peter Barber,Wayne Richings
+ValorNPI,Peter Barber,Wayne Richings
+"Visual Studio (C#, .Net)",Kittipong,Wayne Richings
+AutoIT - SAP Transaction & reporting to support e-pull list,Felix Lai,Business Owned
+SEG UPload file to Azure,Kilo Fang,Jinhua Hou
+SEGLine4MChange,Kilo Fang,Jinhua Hou
+Upload SO for Spectrumpro,Fang zhaoxia,Jinhua Hou
+ABB EDI ,Shang jia,Jinhua Hou
+quotation for customer,Hiroki Araki,Kazuya Takahashi
+NEC BOM,Hiroki Araki,Kazuya Takahashi
+Legacy data archive,Hiroki Araki / Hiroshi Onodera,Kazuya Takahashi
+Celnews,Helen Lynch,Ivan Lin
+Mail List Control (MLC),Belinda Cirianni,Ivan Lin
+WhitePages,Belinda Cirianni,Ivan Lin
+Celestica.com,Pam White,Jeff Little
+Avaya Softphone,Adib,Terry Gilloch
+FTP Synchronizer AS400,Wesley Moore,TBD
+Car in/out control system,Cindy Huo,Hongwei Liu
+TKE FCT testing to access Microsoft website for UUT product register,Jinfei Yan,Jinhua Hou
+Automatic Cosmetic Inspections ( ACI ),Ricardo Gabriel Castilla Luengas,Jorge Juarez Urrutia
+Testers Web service,Ricardo Gabriel Castilla Luengas,Jorge Juarez Urrutia
+Web Dashboard,Hiroshi Onodera,Kazuya Takahashi
+Flex script,Hiroshi Onodera,Kazuya Takahashi
+Centroid Creater,Hiroshi Onodera,Kazuya Takahashi
+GT system,Hiroshi Onodera,Kazuya Takahashi
+Work Instraction,Hiroshi Onodera,Kazuya Takahashi
+PKG inventory,Hinoshi Onodera,Kazuya Takahashi
+Customer lablel printing,Hinoshi Onodera,Kazuya Takahashi
+SMT Process,Hinoshi Onodera,Kazuya Takahashi
+Label feeder,Hinoshi Onodera,Kazuya Takahashi
+i-Reporter,Hinoshi Onodera,Kazuya Takahashi
+Assy profile template,Hinoshi Onodera,Kazuya Takahashi
+DATABANK,Hinoshi Onodera,Kazuya Takahashi
+Data export script,Hinoshi Onodera,Kazuya Takahashi
+OEE,Hinoshi Onodera,Kazuya Takahashi
+Operations Dashboard ELM,Test Engineering (Joel),Konnor Scott
+API Server,Test Engineering (Joel),Seamus McCartin
+Production dashboard(http://10.198.105.201),"Jinglan Bao
+",Eve Hou
+online odc,Yun Du,Eve Hou
+Spare Part management,"Anuchit Winthasith, Celestica - “Sam Khoo” Khoo Kok Wei",Teeraniti Teerawan
+DNC Services,Robert Fulcher,Vinson Pao
+Cellfusion,Engineering,Younggyu Kang
+Site visitor and construction Application,Sam Huang,Jinhua Hou
+Fx All,Roxana Balint,Lise Bourjot
+Khalix/Longview,Sultan Nasrulla,Business Owned
+Lucernex,Tammy Eng,Lise Bourjot
+Reval Risk & Treasury Management,Roxana Negrean,Lise Bourjot
+OMVA Data Integration (Azure),Gomathy N,Craig Lumsden
+Business Controls Reports,Gurunath Pai,Cristian Ungur
+Pacioli 400 / ControllerVision II,Wesley Moore,TBD
+ICC,Leslie Smeyers,Eryka Tan
+Vertex,Rohan Thakkar,Eryka Tan
+VIM,Leslie Smeyers,Eryka Tan
+eShare,Susan Li,Ivan Lin
+ACL,Rohan Thakkar,Lise Bourjot
+Blackline,Sultan Nasrulla,Lise Bourjot
+Cash Application-High Radius,Leslie Smeyers,Lise Bourjot
+SAP DS,Dave Wong,Luis Raul Garcia Solis
+ECAD,Tom Blaszczyk,Kurt Braganza
+Atlassian JIRA software (Server),Joyce Qu,Eve Hou
+Cadence Allegro,Joyce Qu,Eve Hou
+ENOVIA,Joyce Qu,Paul Stanners
+EtQ,Joyce Qu,Paul Stanners
+ServiceNow,Joyce Qu,Paul Stanners
+Valor Trilogy,Joyce Qu,Paul Stanners
+Altair Hypermesh,Joyce Qu,Paul Stanners
+Ansys LS-DYNA,Joyce Qu,Paul Stanners
+Ansys SI Wave,Joyce Qu,Paul Stanners
+Artifacts Build,Joyce Qu,Paul Stanners
+Atlassian Confluence,Joyce Qu,Paul Stanners
+Atlassian JIRA software (Cloud),Joyce Qu,Paul Stanners
+Docker Registry,Joyce Qu,Paul Stanners
+Flortherm,Joyce Qu,Paul Stanners
+Gerrit,Joyce Qu,Paul Stanners
+Gitlab,Joyce Qu,Paul Stanners
+Green Hills,Joyce Qu,Paul Stanners
+Jenkins,Joyce Qu,Paul Stanners
+Keysight ADS,Joyce Qu,Paul Stanners
+PTC Creo,Joyce Qu,Paul Stanners
+PTC Winchill,Joyce Qu,Paul Stanners
+Redmine,Joyce Qu,Paul Stanners
+Review Board,Joyce Qu,Paul Stanners
+SVN,Joyce Qu,Paul Stanners
+StoreHouse,Joyce Qu,
+Bravo,Nancy Allen,Belinda Cirianni
+Concur Expense Tool,Anila Grover,Belinda Cirianni
+EY,John Shanghnessy,Belinda Cirianni
+Filehold,Penny Cavener,Belinda Cirianni
+HRDW BO,,Belinda Cirianni
+HRDW feeds,,Belinda Cirianni
+Success Factor,,Belinda Cirianni
+ADP Globalview,Penny Cavener,Business Owned
+ADP Streamline,Penny Cavener,Business Owned
+Eot (Johor),Penny Cavener,Business Owned
+eTime,Penny Cavener,Business Owned
+Kronos-ES,Penny Cavener,Business Owned
+Kronos-MX,Penny Cavener,Business Owned
+MegaPay,Penny Cavener,Business Owned
+TrueHR,Penny Cavener,Business Owned
+,Darragh Quinn,Business Owned
+FingerTec TCMS V2,HRIS,Jeanette Espiritu Aniag
+CSH Attendance Program,Joy Xu,Jinhua Hou
+HR DB,Toshihiko Shikano,Kazuya Takahashi
+Virtual Edge **OBSOLETE** DO NOT USE THIS,,TBD
+CSG Time Polling TCMS version 2,"Wen Shyan, Lee",TBD
+HR DB. Employee data,HR,Vipa Kittidilok
+eOT,HR,Vipa Kittidilok
+Finger Scan Web (report),HR,Vipa Kittidilok
+HR DB,HR,Vipa Kittidilok
+Visitor Schedule & Meal,Chalalai Boonjam,Vipa Kittidilok
+eOT,HR,Vipa Kittidilok
+Visitor Tracking (Take a visitor picture).,Litar Siphonezai,Vipa Kittidilok
+Duzon,HR,Younggyu Kang
+ZioYou Groupware,HR,Younggyu Kang
+7PasosAppSAN,Raul Alejandro Santacruz,Benny Cruz
+Administracion Comedor,Humberto Arriaga,Benny Cruz
+API Comedor,Adrian Ibarra,Benny Cruz
+APIMES,Edmundo Velazco,Benny Cruz
+APIMES_2017,Edmundo Velazco,Benny Cruz
+Assembler,Obsolete,Benny Cruz
+AssetValidator,Jose Luis Gayoso,Benny Cruz
+Auditorias de Procesos,Francisca Hernandez,Benny Cruz
+Bigbelly -Tracking Components,Claudio Cazares,Benny Cruz
+Carousel,Claudio Cazares,Benny Cruz
+CCSelector,Adrian Ibarra,Benny Cruz
+Celestica.Comedor,Humberto Arriaga,Benny Cruz
+Christmas party app,Dinorah Cano,Benny Cruz
+COFCMainspring,Klaus Daniel,Benny Cruz
+ComedorSnack,Humberto Arriaga,Benny Cruz
+Dashboard Juniper,Adrian Ibarra,Benny Cruz
+Dasplan,Adrian Ibarra,Benny Cruz
+Data Encryption - Banamex,Adolfo Alvarez,Benny Cruz
+DellProcess,Gustavo Garza,Benny Cruz
+DepanelByStation,Raul Alejandro Santacruz,Benny Cruz
+DepanelLuminar,Raul Alejandro Santacruz,Benny Cruz
+DepanelV2,Raul Alejandro Santacruz,Benny Cruz
+Document control,Nelly Campos,Benny Cruz
+DownTime,Javier Cordova,Benny Cruz
+Downtime Dashboard Production Uptime,Claudio Cazares,Benny Cruz
+EngineerTracker,Hector Hugo Oliva,Benny Cruz
+Entrenamiento Master App,Guadalupe Meza,Benny Cruz
+EO Trend,Lucio Martinez,Benny Cruz
+Facturas,Lauro Quintanilla,Benny Cruz
+FailureAnalisys,Lucia Flores,Benny Cruz
+Fotos,Claudio Cazares,Benny Cruz
+Freewire Product Dasbhoard,Arturo Flores,Benny Cruz
+Genealogy.Report.Freeware,Marco Olvera,Benny Cruz
+HardwareDeliveryFormat,Raymundo Siller,Benny Cruz
+Herramental Tracking Tool,Fernando Mexicano,Benny Cruz
+HRPermissions,Humberto Arriaga,Benny Cruz
+Ismart 2.0,Claudio Cazares,Benny Cruz
+IsmartPasswordReset,Claudio Cazares,Benny Cruz
+Juniper Shipping Automation Web Application,Adrian Ibarra,Benny Cruz
+Kapok MAC Address Label Control,Jose Luis Gayoso,Benny Cruz
+Kapok Packing and Product Label,Obsolete,Benny Cruz
+KAPOK.AsBuilt,Ivan Yañez,Benny Cruz
+Kiosko Password Reset - API,Arun Prasath,Benny Cruz
+KitAssembler,Brenda Orozco,Benny Cruz
+KIWI.LibraryPrinting,Gerardo Valero,Benny Cruz
+Label Search BTI,Obsolete,Benny Cruz
+Label Search Optics,Obsolete,Benny Cruz
+Label Search Spares,Obsolete,Benny Cruz
+LCR_reports,Arturo Flores,Benny Cruz
+KPI Management,Claudio Cazares,Benny Cruz
+LibraryPrinting,Saul Salazar,Benny Cruz
+Luminar - Palletized 4.1 (Ovens),Cesar Hinojosa,Benny Cruz
+MAINSPRING.WIT,Omar Rodriguez,Benny Cruz
+MAINSPRING.WITReports,Omar Rodriguez,Benny Cruz
+Master Line Equipment,Javier Cordova,Benny Cruz
+Master Planning Application,Veronica Peña,Benny Cruz
+Material Replanishment by Shop Order,Angel Ruiz,Benny Cruz
+MaterialInterno,Amelia Andrea Gomez,Benny Cruz
+MissShip (ATS),Adrian Ibarra,Benny Cruz
+MissShip (Juniper),Adrian Ibarra,Benny Cruz
+MissShipSiemens,Macario Sorola,Benny Cruz
+MRB_NCM,Marco Lucio,Benny Cruz
+NCM Tool,Elsa Pantoja,Benny Cruz
+OBA Validator BTI,Obsolete,Benny Cruz
+OBA Validator Optics,Obsolete,Benny Cruz
+OBA Validator Spares,Obsolete,Benny Cruz
+ODCSPC,Elsa Pantoja,Benny Cruz
+OLSU Release BTI,Obsolete,Benny Cruz
+OLSU Release Optics,Obsolete,Benny Cruz
+OLSU Release Spares,Obsolete,Benny Cruz
+Panel,Alondra Gonzalez,Benny Cruz
+PersonnelDeskLocation,Christian Guerrero,Benny Cruz
+Plan Manager,Adrian Ibarra,Benny Cruz
+Plan vs Real,Adrian Ibarra,Benny Cruz
+Powin - Dynamic Validator Type B and C,Ana Moya,Benny Cruz
+PrimerosConteos,Edmundo Velazco,Benny Cruz
+Production,Claudio Cazares,Benny Cruz
+Rates Capture App,Oscar Lopez,Benny Cruz
+RCCA (Root Cause & Corrective Actions) Tool,Claudio Cazares,Benny Cruz
+RecibosMonitor,Ruben Contreras,Benny Cruz
+RecibosMonitorE,Ruben Contreras,Benny Cruz
+Retroalimentacion,Humberto Arriaga,Benny Cruz
+Return Process 250 Management V2,Rafael Canales,Benny Cruz
+REVENUE_LOAD_TARGET,Claudio Cazares,Benny Cruz
+RMA / Unship Process,Eugenia Garcia,Benny Cruz
+RTVRS,Marco Lucio,Benny Cruz
+Sales Order Validator For Juniper Spares,Obsolete,Benny Cruz
+Scrap,Edmundo Velazco,Benny Cruz
+SCRAP Application,Karla Comparan,Benny Cruz
+ScrapFinanceRep,Edmundo Velazco,Benny Cruz
+ScrapPlus,Edmundo Velazco,Benny Cruz
+ScrapPlusNV,Edmundo Velazco,Benny Cruz
+SegundosConteos,Edmundo Velazco,Benny Cruz
+SFRReports,Arturo Flores,Benny Cruz
+Shipping Process,Obsolete,Benny Cruz
+Shipping Report,Adrian Ibarra,Benny Cruz
+Shopfloor Requirements V2,Ernesto Flores,Benny Cruz
+ShopFloorReq,Arturo Flores,Benny Cruz
+Skill Matrix (Employee Task Management),Georgina Coronado,Benny Cruz
+Smith & Nephew COC,Obsolete,Benny Cruz
+SnowPortal,Claudio Cazares,Benny Cruz
+Spectrum Backflush Solution,Obsolete,Benny Cruz
+Supplier Shipping Requirements,Jorge Torres,Benny Cruz
+Tagged.Operator,Cesar Barrera,Benny Cruz
+Test Planning Dashboard,Obsolete,Benny Cruz
+Testing Cost Calculation,Obsolete,Benny Cruz
+Training,Guadalupe Meza,Benny Cruz
+TrainingSchedule,Guadalupe Meza,Benny Cruz
+Traveler App,Georgina Coronado,Benny Cruz
+UID,Cesar Hinojosa,Benny Cruz
+UID_Report,Arturo Flores,Benny Cruz
+Urgent Process,Adrian Ibarra,Benny Cruz
+VIA,Raul Alejandro Santacruz,Benny Cruz
+VisitorsRegister,Dinorah Cano,Benny Cruz
+WCM - Kaizen,Blanca Sifuentes,Benny Cruz
+WHS_CARRUSEL,Edmundo Velazco,Benny Cruz
+WorkLines,Hector Blancas,Benny Cruz
+7LabelsLuminar,Raul Alejandro Santacruz,Benny Cruz
+7LabelsChargePoint,Raul Alejandro Santacruz,Benny Cruz
+DepanelKostal,Daniel Pimentel,Benny Cruz
+DepanelSmithAndNephew,Daniel Pimentel,Benny Cruz
+EHS,Blanca Alanis,Benny Cruz
+ATS.BOM,Miguel Navarro,Benny Cruz
+PressFitApp,Omar Esparza,Benny Cruz
+VI,Alina Lozano,Benny Cruz
+VIAQA,Alina Lozano,Benny Cruz
+Product Responsibilities Matrix,Bruce Macgibbon,Neal Martin
+API - Audit Program,Siew Peng,Celestica - Ronnie Tan Kee Poh
+Auto flipper Coating,Thina,Celestica - Ronnie Tan Kee Poh
+Baking Oven System,Thinagaran Naidu,Celestica - Ronnie Tan Kee Poh
+Offline Baking Oven System,Thinagaran Naidu,Celestica - Ronnie Tan Kee Poh
+Component Baking Oven System,Thilagavathi A/P Manickam,Celestica - Ronnie Tan Kee Poh
+Board Purge,Hafizan,Celestica - Ronnie Tan Kee Poh
+Coon Rapid Wash DashBoard,,Celestica - Ronnie Tan Kee Poh
+eChecklist,Thilagavathi A/P Manickam,Celestica - Ronnie Tan Kee Poh
+ECOC,SL Chuah,Celestica - Ronnie Tan Kee Poh
+eRSN tool + eRSN editor,Program Team,Celestica - Ronnie Tan Kee Poh
+Flexible File uploader,Akram,Celestica - Ronnie Tan Kee Poh
+Flying Probe autolink,Thina,Celestica - Ronnie Tan Kee Poh
+IDM expiry web report,Susie,Celestica - Ronnie Tan Kee Poh
+Inspector Performance Tracking,Thilagavathi A/P Manickam,Celestica - Ronnie Tan Kee Poh
+Clear Open Failure Self service tools,Kevin,Celestica - Ronnie Tan Kee Poh
+L3S Smart Rack//Reel integration (PTL-webservice),Azni/Susie,Celestica - Ronnie Tan Kee Poh
+Doctor and Nurse (Manual Solder Part),Halim/Susie,Celestica - Ronnie Tan Kee Poh
+MI Kit Ready,CL Lee,Celestica - Ronnie Tan Kee Poh
+MIS tool,Susie,Celestica - Ronnie Tan Kee Poh
+OEE automated data pull.,Halim,Celestica - Ronnie Tan Kee Poh
+OEE dashboard to track machine and operator performance for ICT & WAVE,Halim,Celestica - Ronnie Tan Kee Poh
+Online Booties,Thina,Celestica - Ronnie Tan Kee Poh
+Optimus,CK Tang,Celestica - Ronnie Tan Kee Poh
+Part Shortage Macro,,Celestica - Ronnie Tan Kee Poh
+Bonepile (Rework/Debug aging),Mark,Celestica - Ronnie Tan Kee Poh
+RMA Tracker,CK Tang,Celestica - Ronnie Tan Kee Poh
+Route identifier by Station,Halim,Celestica - Ronnie Tan Kee Poh
+Route Matrix,Halim,Celestica - Ronnie Tan Kee Poh
+Self-service to add ODC user access rights (web app),Leeza,Celestica - Ronnie Tan Kee Poh
+Temperature Screening & Declaration System,Anas,Celestica - Ronnie Tan Kee Poh
+Visitor Registration Systme,Anas,Celestica - Ronnie Tan Kee Poh
+PI offline tool (SU and non SU managed),Siew Peng,Celestica - Ronnie Tan Kee Poh
+eRSN + eRSN editor,CS Oong,Celestica - Ronnie Tan Kee Poh
+Temperature Screening & Declaration System,Penang,Celestica - Ronnie Tan Kee Poh
+PI precount tool,Susie,Celestica - Ronnie Tan Kee Poh
+DBMS,All BU,Celestica - Ronnie Tan Kee Poh
+Flying Probe Autolink,All BU,Celestica - Ronnie Tan Kee Poh
+Online Certification Badge,All BU,Celestica - Ronnie Tan Kee Poh
+LED test,KH Lim,Celestica - Ronnie Tan Kee Poh
+Tooling Management System (APEX),Sandru,Celestica - Ronnie Tan Kee Poh
+SMT feeder management,Azni,Celestica - Ronnie Tan Kee Poh
+Solder paste label printing,Production,Celestica - Ronnie Tan Kee Poh
+eChecklist self release (shipping process used by QA),CL Chuah,Celestica - Ronnie Tan Kee Poh
+STG(staging) storage tracking,Thila,Celestica - Ronnie Tan Kee Poh
+Auto MSL,Thila,Celestica - Ronnie Tan Kee Poh
+Edit box parameter,CQE,Celestica - Ronnie Tan Kee Poh
+Daugther SN checking,CQE,Celestica - Ronnie Tan Kee Poh
+Thales Dashboard Report,CQE,Celestica - Ronnie Tan Kee Poh
+Thales SN query,CQE,Celestica - Ronnie Tan Kee Poh
+Thales RMA,CQE,Celestica - Ronnie Tan Kee Poh
+LCR_Log,Susie,Celestica - Ronnie Tan Kee Poh
+LCR Value check & maintenance,Susie,Celestica - Ronnie Tan Kee Poh
+Component eRSN,Chuah SL,Celestica - Ronnie Tan Kee Poh
+Delete Empty reel L3S Inventory,Susie,Celestica - Ronnie Tan Kee Poh
+Bad component Removal (Report),Thales - Tuan Fadir,Celestica - Ronnie Tan Kee Poh
+Dsiplay RSN,Susie,Celestica - Ronnie Tan Kee Poh
+L3S pairing report draco model,Susie,Celestica - Ronnie Tan Kee Poh
+Bigfix,,Claudio Cazares
+ABB_MI,Andreea Selin,Cristian Ungur
+abb_mi,Andreea Selin,Cristian Ungur
+ABBWEBAPP,,Cristian Ungur
+administrare_supervizori,,Cristian Ungur
+Aging_SN,Goran Fumic,Cristian Ungur
+Andon,Andreea Selin,Cristian Ungur
+AOI Integration,Andreea Selin,Cristian Ungur
+Auto pass/fail at AOI,Goran Fumic,Cristian Ungur
+AVLChecker,Andreea Selin,Cristian Ungur
+AWB Receiving,Dan Pasc,Cristian Ungur
+BNR_FX_IMPORT,Mihai-Octavian Marele,Cristian Ungur
+Break report,Goran Fumic,Cristian Ungur
+Business Control Reports,Andreea Selin,Cristian Ungur
+Calibration Label,,Cristian Ungur
+Canteen,Goran Fumic,Cristian Ungur
+Central Kitting App ,Magdalena Corbut,Cristian Ungur
+Certificates management,Goran Fumic,Cristian Ungur
+Check_tichet,,Cristian Ungur
+Chemicals Expiration alert,Andreea Selin,Cristian Ungur
+CK_RTS (Request App),Magdalena Corbut,Cristian Ungur
+Contor_accident,,Cristian Ungur
+CRO site yield,Goran Fumic,Cristian Ungur
+CTB Visibility ,,Cristian Ungur
+CTN Operation,,Cristian Ungur
+CTN upload,Andreea Selin,Cristian Ungur
+CTN web application,Andreea Selin,Cristian Ungur
+CycleTime,Goran Fumic,Cristian Ungur
+DPPM Report,Goran Fumic,Cristian Ungur
+EmployeeTaskManagement (Skill Matrix),Andreea Selin,Cristian Ungur
+ESD Equipments,,Cristian Ungur
+EtichetaPasta,,Cristian Ungur
+External wh mirroring,Goran Fumic,Cristian Ungur
+Failure&Defect analysis and propagation in time,Goran Fumic,Cristian Ungur
+Fire Drill application,Andreea Selin,Cristian Ungur
+Freight Analyzer,Mihai-Octavian Marele,Cristian Ungur
+Functional tester integration,Andreea Selin,Cristian Ungur
+Hager - Manual Insertion,Andreea Selin,Cristian Ungur
+IBM Line Return,,Cristian Ungur
+Inbound truck scheduler,Andreea Selin,Cristian Ungur
+Intrastat,Goran Fumic,Cristian Ungur
+Inventar,,Cristian Ungur
+Invoice alerts,Goran Fumic,Cristian Ungur
+KITTING SHELF MANAGEMENT APP,Magdalena Corbut Aurelian-Mihai Stef,Cristian Ungur
+KittingAdministration(PFEP DataBase),Dan Pasc,Cristian Ungur
+KPI_Database,,Cristian Ungur
+Landis Table - LOTNO,,Cristian Ungur
+BK_MAILBOX,Susana Prieto,Cristian Ungur
+BMW_CTN,Susana Prieto,Cristian Ungur
+BMW_FLUJO,Susana Prieto,Cristian Ungur
+BMW_ODCIN,Susana Prieto,Cristian Ungur
+BMW_ODCIN80,Susana Prieto,Cristian Ungur
+BMW_OUT,Susana Prieto,Cristian Ungur
+BMW_UPDH,Susana Prieto,Cristian Ungur
+BPCW,Susana Prieto,Cristian Ungur
+CARDLIST,Susana Prieto,Cristian Ungur
+CARGATABLA,Susana Prieto,Cristian Ungur
+CODESOFT,Toni Calatrava,Cristian Ungur
+CONTROL_BULK,Susana Prieto,Cristian Ungur
+CTN DB,Susana Prieto,Cristian Ungur
+Cualificaciones,Toni Calatrava,Cristian Ungur
+DBTMFAST,Susana Prieto,Cristian Ungur
+Deltasfast_280_NO (Calculaheader),Susana Prieto,Cristian Ungur
+Deltasfast_280_SI (Calculaheader),Susana Prieto,Cristian Ungur
+DELTASW,Susana Prieto,Cristian Ungur
+DES,Susana Prieto,Cristian Ungur
+eDHR,Gonzalo Encinas,Cristian Ungur
+eDOC for Engineering,Toni Calatrava,Cristian Ungur
+eDOC for Operations,Toni Calatrava,Cristian Ungur
+Explorador_Info_Ingeniería,Toni Calatrava,Cristian Ungur
+FFLEXA,Toni Calatrava,Cristian Ungur
+FLEXA_SETUP_LIST,Toni Calatrava,Cristian Ungur
+FLEXLABEL,Toni Calatrava,Cristian Ungur
+Flujiflexa,Toni Calatrava,Cristian Ungur
+FUJI_YIELD,Susana Prieto,Cristian Ungur
+GALEON,Susana Prieto,Cristian Ungur
+GBOOM,Susana Prieto,Cristian Ungur
+GCAMBIOSN,Susana Prieto,Cristian Ungur
+GCAMBIOSNMASS,Susana Prieto,Cristian Ungur
+GCAMIONES,Susana Prieto,Cristian Ungur
+GCONTAINER,Susana Prieto,Cristian Ungur
+GCOUNT.EXE,Susana Prieto,Cristian Ungur
+GdBExport (excel based),Susana Prieto,Cristian Ungur
+GDEON,Susana Prieto,Cristian Ungur
+GDEON_WH,Susana Prieto,Cristian Ungur
+KRONOS,Marta Ricart,Cristian Ungur
+Label grader Microscan,Gonzalo Encinas,Cristian Ungur
+GDFUJI,Toni Calatrava,Cristian Ungur
+GDFUJI_FIX,Toni Calatrava,Cristian Ungur
+GDFUJM,Toni Calatrava,Cristian Ungur
+GF1_80.EXE,Susana Prieto,Cristian Ungur
+GFTP_ASPECT,Susana Prieto,Cristian Ungur
+GHU,Susana Prieto,Cristian Ungur
+GLABEL_I1,Susana Prieto,Cristian Ungur
+GLABEL_TID,Susana Prieto,Cristian Ungur
+GMATCH,Susana Prieto,Cristian Ungur
+GMODULA,Susana Prieto,Cristian Ungur
+GMODULA_SPLIT,Susana Prieto,Cristian Ungur
+GMODULA_TOD,Susana Prieto,Cristian Ungur
+GNEGMOQ,Susana Prieto,Cristian Ungur
+GPANEL.EXE,Susana Prieto,Cristian Ungur
+GPANELFAIL.EXE,Susana Prieto,Cristian Ungur
+GRECSTOCK,Susana Prieto,Cristian Ungur
+QUICKTEST,Susana Prieto,Cristian Ungur
+GSCAN,Susana Prieto,Cristian Ungur
+GSCANDOC,Susana Prieto,Cristian Ungur
+GSMED,Susana Prieto,Cristian Ungur
+GXMAIL,Fernando Coma,Cristian Ungur
+ICT_MAIN (BRIDGE),Susana Prieto,Cristian Ungur
+Laser Marker,Toni Calatrava,Cristian Ungur
+LASER_BRIDGE.cmd,Susana Prieto,Cristian Ungur
+LASER_COM,Susana Prieto,Cristian Ungur
+LINEAKITTING (excel based),Susana Prieto,Cristian Ungur
+LINEASETUP (excel based),Susana Prieto,Cristian Ungur
+LOB (Line of Balance) (excel based),Susana Prieto,Cristian Ungur
+MARCAR_FALTANTES,Susana Prieto,Cristian Ungur
+MASTERBOM,Toni Calatrava,Cristian Ungur
+MEV Report,Carmen Zarzoso,Cristian Ungur
+Modula,Susana Prieto,Cristian Ungur
+OFFSPEC.EXE (WAIVERS),Carmen Zarzoso,Cristian Ungur
+Optimus,Toni Calatrava,Cristian Ungur
+PACKING,Susana Prieto,Cristian Ungur
+PACKINGSPARES,Susana Prieto,Cristian Ungur
+PRODUCLINE (excel based),Susana Prieto,Cristian Ungur
+QSPECS Local,Susana Prieto,Cristian Ungur
+Recepcion_anuncio_rma,Susana Prieto,Cristian Ungur
+REWORK.EXE,Susana Prieto,Cristian Ungur
+SALDAR_FALTANTES,Susana Prieto,Cristian Ungur
+SFTP,Carmen Zarzoso,Cristian Ungur
+Test Results Database (TRDB),Pedro Hernández,Cristian Ungur
+Test Results Database (TRDB),Pedro Hernández,Cristian Ungur
+Web report,Susana Prieto,Cristian Ungur
+SETUP_CHECHER,Toni Calatrava,Cristian Ungur
+SWAP,Susana Prieto,Cristian Ungur
+TEST_TINMARSAT,Susana Prieto,Cristian Ungur
+TESTERS_SIG,Susana Prieto,Cristian Ungur
+TRANSFER_AOI-PTH.cmd,Susana Prieto,Cristian Ungur
+TRANSFER_OPTIMUS,Toni Calatrava,Cristian Ungur
+TRANSFER.cmd,Susana Prieto,Cristian Ungur
+TRAZABIM,Susana Prieto,Cristian Ungur
+TRAZMAIN (AOI/AXI) (Dismissed 2023),Susana Prieto,Cristian Ungur
+TRAZMAIN (FUJI),Susana Prieto,Cristian Ungur
+TRAZMAIN (TXPI) (Dismissed 2023),Susana Prieto,Cristian Ungur
+TRAZMAIN(POK),Susana Prieto,Cristian Ungur
+UPDHEADER,Susana Prieto,Cristian Ungur
+UPLOAD_FUJI_FLEXA,Susana Prieto,Cristian Ungur
+Winlog.web,Fernando Coma,Cristian Ungur
+Laser Engrave Registrations,Goran Fumic,Cristian Ungur
+LG_SMT_SIEMENS,Andreea Selin,Cristian Ungur
+Line Return sn management,Andreea Selin,Cristian Ungur
+LinesIpsAssociation,,Cristian Ungur
+LoadRID,,Cristian Ungur
+Logicost,Mihai-Octavian Marele,Cristian Ungur
+Modi integration,Goran Fumic,Cristian Ungur
+Modula integration,Goran Fumic,Cristian Ungur
+MRB-APP,Andreea Selin,Cristian Ungur
+MSL App,Andreea Selin,Cristian Ungur
+Multilabel print,Goran Fumic,Cristian Ungur
+NCM APP,Andreea Selin,Cristian Ungur
+OBI_Product_Report,Goran Fumic,Cristian Ungur
+OIP,,Cristian Ungur
+Outbound truck scheduler,Andreea Selin,Cristian Ungur
+"Outbound truck scheduler-ECCN
+",Andreea Selin,Cristian Ungur
+Pick to Light,Andreea Selin,Cristian Ungur
+PodPoint_MI,,Cristian Ungur
+PutAway,Andreea Selin,Cristian Ungur
+Query to all CFT to PowerBI,,Cristian Ungur
+Realtime Warehouse Activity Monitor,Dan Pasc,Cristian Ungur
+Replanish_Pasta,,Cristian Ungur
+Replenishment App,Magdalena Corbut,Cristian Ungur
+RMA sn register,Goran Fumic,Cristian Ungur
+RTVR,Goran Fumic,Cristian Ungur
+RTVR LN migration,Daniel-Florin Lucan,Cristian Ungur
+SAP API Library,Cristian Ungur,Cristian Ungur
+SAP_RTS ,Magdalena Corbut,Cristian Ungur
+Second level pack,Andreea Selin,Cristian Ungur
+Ship Landis,,Cristian Ungur
+Ship_ABB,Andreea Selin,Cristian Ungur
+ShipControl,Andreea Selin,Cristian Ungur
+Shipped sn pre alert,Goran Fumic,Cristian Ungur
+Shop floor material request,Andreea Selin,Cristian Ungur
+Siemens OBU Certificates_multiple_testers,Andreea Selin,Cristian Ungur
+Siemens_obu_cert_obu081,Andreea Selin,Cristian Ungur
+SiemensOBUTransferFiles,Andreea Selin,Cristian Ungur
+SMA_AOI,,Cristian Ungur
+SMA_MI,Andreea Selin,Cristian Ungur
+SMT L3 Traceability,Andreea Selin,Cristian Ungur
+SMT_SUMMARY_report1_3,Goran Fumic,Cristian Ungur
+SO_Transfer_Danfoss,,Cristian Ungur
+SpectrumPro Station Standardization,Goran Fumic,Cristian Ungur
+sql_gen,,Cristian Ungur
+SQTD (Supplier Quliaty Tracking Database),Daniel-Florin Lucan,Cristian Ungur
+Stencil management,Goran Fumic,Cristian Ungur
+STENCIL_MANAGEMENT,Andreea Selin,Cristian Ungur
+Stencil_pasta,,Cristian Ungur
+Stop Belt,,Cristian Ungur
+ticket,,Cristian Ungur
+TrueHRFileNameChanger,Andreea Selin,Cristian Ungur
+TVA_App,Andreea Selin,Cristian Ungur
+TVP - Total Visibility Plan,Goran Fumic,Cristian Ungur
+UID Fuji export,Goran Fumic,Cristian Ungur
+UID Siplace export,Goran Fumic,Cristian Ungur
+UNMERGE_IBM,Andreea Selin,Cristian Ungur
+UpdateOrderApp,Andreea Selin,Cristian Ungur
+UploadSNSma,Andreea Selin,Cristian Ungur
+UploadSNVerisure,Andreea Selin,Cristian Ungur
+verisure_mi,,Cristian Ungur
+WALLBOX_MI,Andreea Selin,Cristian Ungur
+Warehouse Blocked materials,,Cristian Ungur
+WIP_SMT_Consolidated,,Cristian Ungur
+SiemensOBU/Landis/Hager/Sonnen/Veriusure/Pod Point/ Hitachi SendData,,Cristian Ungur
+Import PutAway SMA Location,,Cristian Ungur
+TVA Finance,,Cristian Ungur
+Vending Machine,,Cristian Ungur
+DocuSign,,Andrew Sun
+Dynamics 365 CRM,,Andrew Sun
+IBM API Connect,Ganesh Ramchandra Khandekar,Jeff Little
+LinkedIn,,Andrew Sun
+ServiceNow Platform,,Andrew Sun
+GoAnywhere,Ganesh Ramchandra Khandekar,Ganesh Ramchandra Khandekar
+Celestica FTP Service,,Hai Kuan Cheoh
+5DX Sampling,Jess Zhao,Hongwei Liu
+Aging WIP dashboard,Windy Zhao,Hongwei Liu
+AliUploadData,Echo Zhang,Hongwei Liu
+Auto CTN,Shirly Song,Hongwei Liu
+Book Meeting room,Katie Ye,Hongwei Liu
+Car booking,Katie Ye,Hongwei Liu
+Clock system,Cindy Huo,Hongwei Liu
+Datafeed for IBM asBuild data,Echo Zhang,Hongwei Liu
+Datapack,Helen Chen,Hongwei Liu
+E-Pull List,Alan Lee,Hongwei Liu
+ePR System,EJ Ng,Hongwei Liu
+Gate pass,Cindy Huo,Hongwei Liu
+Log reader,Shirly Song,Hongwei Liu
+Material Counting System,Alan Lee,Hongwei Liu
+Power BI Reporting,Windy Zhao,Hongwei Liu
+Product label print,Jess Zhao,Hongwei Liu
+Production plan,Jack Zhang,Hongwei Liu
+Receiving Label Printing,Alan Lee,Hongwei Liu
+Shipping label print,Helen Chen,Hongwei Liu
+"SPC Reminder, SPC Service, SPC init",Echo Zhang,Hongwei Liu
+Tempurature & Humidity,Jack Zhang,Hongwei Liu
+Celestica File Management,Osgood Vogler,Ivan Lin
+Changing the Game Award,Nancy Allen / Sandy Yalowica,Ivan Lin
+WhitePages,Belinda Cirianni,Ivan Lin
+Operation Agile,OPS,Jinhua Hou
+AgedWipReport,Fang zhaoxia,Jinhua Hou
+POMSR（production order maintenance service request）,Yurong Xie,Jinhua Hou
+Enovia GDS,Shanghai GDS,Jinhua Hou
+FAS/DRM,Shanghai GDS FIN,Jinhua Hou
+Redmine,Shanghai GDS SAE,Jinhua Hou
+SVN,Shanghai GDS SAE,Jinhua Hou
+Warehouse Management System,Shanghai GDS LAB,Jinhua Hou
+Windchill,Shanghai GDS ME,Jinhua Hou
+API Application,Ricardo Gabriel Castilla Luengas,Jorge Juarez Urrutia
+Customer Dashboards,Ricardo Gabriel Castilla Luengas,Jorge Juarez Urrutia
+Smart Glasses Receiving Operation ( API),Ricardo Gabriel Castilla Luengas,Jorge Juarez Urrutia
+RFID's App,Ricardo Gabriel Castilla Luengas,Jorge Juarez Urrutia
+Line Dashboards,Ricardo Gabriel Castilla Luengas,Jorge Juarez Urrutia
+BetterCloud,,Kenneth Sheng
+Google,Steven Cheng,Steven Cheng
+Google Apps Directory Sync,Prakash Koshy,Steven Cheng
+Single User Source,Kenneth Sheng,Kenneth Sheng
+SMTP (smtp.celestica.com),Prakash Koshy,Kenneth Sheng
+Thales Safenet,Santhosh Srinivasan,Kenneth Sheng
+FTP - SN,Process Engineering (Elias),Konnor Scott
+FTP Geneology,Process Engineering (Elias),Konnor Scott
+Factory Logix Custom Reports,Levent Kaan,Leonel Rodriguez Pinon
+WIP Velocity Report,Les Graham,Leslie Graham
+"Celestica Application Toolkit (CAT)
+ Renamed from
+ Celestica Site Application Tool (CSAT)",Alain Cubric,Leslie Graham
+Security DB lookup,Zaf El-Jammal,Leslie Graham
+Arcsight,,Celestica - Manoj Singh
+Carbon Black Enteprise Protection (formerly Bit9),,Celestica - Manoj Singh
+CrowdStrike,,Celestica - Manoj Singh
+CyberArk Privileged Access Management,,Celestica - Manoj Singh
+Gemalto 2FA,,Kenneth Sheng
+McAfee - Site Advisor Enterprise (SAE),,Celestica - Manoj Singh
+McAfee Data Loss Prevention,,Murugappan Krishnan
+McAfee Drive Encryption,,Kenneth Sheng
+McAfee e-Policy Orchestrator,,Kenneth Sheng
+McAfee File Removable Protection,,Kenneth Sheng
+McAfee Host Instrusion Prevention and Firewall,,Prakash Koshy
+McAfee Network Intrusion Prevention,,Prakash Koshy
+McAfee Network Security Platform,,Prakash Koshy
+McAfee Policy Auditor,,Prakash Koshy
+McAfee Virus Scan Enterprise,,Prakash Koshy
+McAfee Web Gateway,,Prakash Koshy
+Qualys Vulnerability Management,,Celestica - Manoj Singh
+Riskonnect,Jack Buchanan/Gurunath Pai,Murugappan Krishnan
+Reporte,OBSOLETE ,Benny Cruz
+ODCSPC_v2,OBSOLETE ,Benny Cruz
+WarehouseLP,OBSOLETE ,Benny Cruz
+FacilitiesChemical,OBSOLETE ,Benny Cruz
+Open Sales Order (Customer OTD),Rolando Calderon,Rodolfo Guillen Martinez
+Open Value,Rolando Calderon,Rodolfo Guillen Martinez
+Production Report,Rolando Calderon,Rodolfo Guillen Martinez
+Production Report,Jason Valencia,Rodolfo Guillen Martinez
+Production Report by Month,Rolando Calderon,Rodolfo Guillen Martinez
+Production Report Summary,Rolando Calderon,Rodolfo Guillen Martinez
+E&O Details,Liz Dickens,Rodolfo Guillen Martinez
+E&O PM,Liz Dickens,Rodolfo Guillen Martinez
+E&O Summary,Liz Dickens,Rodolfo Guillen Martinez
+Inventory report,Rolando Calderon,Rodolfo Guillen Martinez
+PrinterFeed,Bruce Macgibbon,Rodolfo Guillen Martinez
+Production Slot Plan,Jason Valencia,Rodolfo Guillen Martinez
+SyncHRDW,Bruce Macgibbon,Rodolfo Guillen Martinez
+Planning BOM Components,Rolando Calderon,Rodolfo Guillen Martinez
+Schedule Lines,Rolando Calderon,Rodolfo Guillen Martinez
+Shipping Details,Rolando Calderon,Rodolfo Guillen Martinez
+Shipping Revenue,Rolando Calderon,Rodolfo Guillen Martinez
+SP Error Handling,Jason Valencia,Rodolfo Guillen Martinez
+SpectrumPro 1.x,Bruce Macgibbon,Rodolfo Guillen Martinez
+SPGen,Jason Valencia,Rodolfo Guillen Martinez
+Work Center Report,Jason Valencia,Rodolfo Guillen Martinez
+Kardex,Matthew Larson,Rodolfo Guillen Martinez
+Prime Label app,Jason Valencia,Ronald Allan Bayquin
+SyncHRDW,VInson Pao,Ronald Allan Bayquin
+SPGenPDF,VInson Pao,Ronald Allan Bayquin
+PrinterFeed,Joanna Reyes / Adan Ruiz/ Phuc Tran,Ronald Allan Bayquin
+Nodered,Joel Gamboa,Eve Hou
+QMT,,Guillermo Rivas
+DocRecord,Jeffrey Conway,Stayko Kopanarov
+ELM Customer (CAMS),Gloria de la Fuente,Ed Stodola
+ELM Customer (CAMS),Gloria de la Fuente,Hugo Martinez
+Lenel Security System,Rick,Terry Gilloch
+Lenel System,Rick/Anas,Terry Gilloch
+BI Failure Data Visualization on Cloud,PE,Vipa Kittidilok
+"MAC address, SAS and service tag Management ()",PE,Vipa Kittidilok
+MACID Management,PE,Vipa Kittidilok
+Organic Surface preservative (OSP) control,Chounchai Kaewmookda,Vipa Kittidilok
+IT Authorize Center for Local Applciation,IT,Vipa Kittidilok
+Epicor,Warren Shimizu,Warren Shimizu
+CodeSoft,Ronnie Huerta,Warren Shimizu
+GoAnywhere,David Armstrong,Warren Shimizu
+Bartender,,Warren Shimizu
+S-1 Smart Viewer,IT,Younggyu Kang
+Smart Attendance Management,IT,Younggyu Kang
+Ionograph random unit selector,Les Graham,Abeer Najeeb
+L3 RMA detailed info loader,Les Graham,Abeer Najeeb
+NCM process/labels,Les Graham,Abeer Najeeb
+ETQ,Nels Frostenson,Ashish Patnaik
+ESD system,Ahnanthy Ramasamy,Celestica - Ronnie Tan Kee Poh
+MIF - Kardex VLM,Abdul Halim,Celestica - Ronnie Tan Kee Poh
+Pick to light system,Abdul Halim,Celestica - Ronnie Tan Kee Poh
+Trax+,Azni/Susie,Celestica - Ronnie Tan Kee Poh
+Xray counter machine integration with Fuji & ODC (webservice) & SAP,CL Lee,Celestica - Ronnie Tan Kee Poh
+BOM excel macro,CQE,Celestica - Ronnie Tan Kee Poh
+Route excel macro,CQE,Celestica - Ronnie Tan Kee Poh
+Juniper Mac address maintenance,Zahid,Celestica - Ronnie Tan Kee Poh
+Juniper Mac address web service,Zahid,Celestica - Ronnie Tan Kee Poh
+Juniper data exchange report,Zahid,Celestica - Ronnie Tan Kee Poh
+Station Time Control Email Triggering prior to the system block happen,Zahid,Celestica - Ronnie Tan Kee Poh
+Ops Central,"Armin Bogosian, Chris Barlosky",Claudio Yin
+Asset Management,,Cristian Ungur
+DRV SpoolFlex/FormFlex,Wesley Moore,TBD
+System-Link Toolkit,Wesley Moore,TBD
+VPi,Wesley Moore,TBD
+Hexagon Xalt (Eshop),Wesley Moore,TBD
+Auto Hotkey,Wesley Moore,TBD
+ODC - SpectrumPro,HS Lew,Dome Tepupatump
+Optimus,Tom Blaszczyk,Dome Tepupatump
+SpectrumPRO Cloud,HS Lew,Dome Tepupatump
+SpectrumPRO Cloud CAMS,HS Lew,Dome Tepupatump
+Viper,HS Lew,Dome Tepupatump
+SWS Smart Warehouse System,Windy Zhao,Hongwei Liu
+UPH,Jack Zhang,Hongwei Liu
+OPRFF(Off-line Programming Request & FA Form),Yan Jinfei,Jinhua Hou
+Juniper CMWrap and CMhook,Wu Zhengzhan,Jinhua Hou
+pull list system,OPS,Jinhua Hou
+Smart rack,Jim Zhao,Jinhua Hou
+IDM ( Indect Materail Management ),Yu dongming,Jinhua Hou
+Layout Change,Maorong Jiang,Jinhua Hou
+WTQTrainingRecord,Wei Li,Jinhua Hou
+ASRS,Fang chaopei,Jinhua Hou
+Celestica DNC,,Kurt Braganza
+DFMA,Tom Blaszczyk,Kurt Braganza
+SMT ASSET UTILIZATION (AU),,Kurt Braganza
+Valor Vnpi,Tom Blaszczyk,Kurt Braganza
+Valor VPL,Tom Blaszczyk,Kurt Braganza
+Valor Process Prep (TestExpert),Tom Blaszczyk,Kurt Braganza
+Valor Process Prep (Stencil Design),Tom Blaszczyk,Kurt Braganza
+Auto register/trace,Darrin Hynes,Leslie Graham
+Auto resistor selection tool,Ujjwal Verma,Leslie Graham
+Automated ESD integration (Botron),Aresh Gutta,Leslie Graham
+Kardex Order loader,Darrin Hynes,Leslie Graham
+Predefined / Dynamic reworks,Engineering,Leslie Graham
+SpectrumPro Checklists,Engineering,Leslie Graham
+Trace Compare Tool,Engineering,Leslie Graham
+ETQ Integration enhancement,Wayne Cleland,Leslie Graham
+Automated ESD integration (DESCO),Zaf El-Jammal,Leslie Graham
+Labor Widget,Les Graham,Leslie Graham
+Labor Widget (Multi Schema),Les Graham,Leslie Graham
+PO Loader Application,L3 and HW,Leslie Graham
+Merck Panel Automation,Armando Manzo,Leslie Graham
+Label Placement process,Les Graham,Leslie Graham
+Caliper Calibration tool,Tony Di Foglio,Leslie Graham
+Tooling calibration check,Les Graham,Leslie Graham
+CAWS number tracking,Les Graham,Leslie Graham
+Wash fixture tracking and validation,Tony Di Foglio,Leslie Graham
+Userid and password Sync,Les Graham,Philip Teixeira
+Serial number generator,Gerry Price,Rodolfo Guillen Martinez
+SMT Systems,Rolando Calderon,Rodolfo Guillen Martinez
+Prime,San Pham,Ronald Allan Bayquin
+iOperation,HSL,Somphoon Kerdthong
+Smart Receiving,Praphan Phatcharakul,Teeraniti Teerawan
+Auto Hard Stop,TE,Vipa Kittidilok
+Bentley Test Data And Shipping datafeed,TE,Vipa Kittidilok
+BL Raw data,PA,Vipa Kittidilok
+Ciena RMA dashboard,Dexie,Vipa Kittidilok
+CIENA RMA TAT report,Aravind Iniyan,Vipa Kittidilok
+Component Usage,QE,Vipa Kittidilok
+Facility & IE web request,Supadesh Ussayaporn / Watthanawong Komonmarl,Vipa Kittidilok
+Google Debug wip report,Debug team,Vipa Kittidilok
+Google Median Manufacturing Cycle Time,PE,Vipa Kittidilok
+Itron Daily Yield Report,QE,Vipa Kittidilok
+Itron RMA Report,PA,Vipa Kittidilok
+Laser mark service Itron,Equipment team,Vipa Kittidilok
+OEE AOI (Q data) on Cloud,Wiwat,Vipa Kittidilok
+Oracle ATO Production Order,PA,Vipa Kittidilok
+Password Control,ME,Vipa Kittidilok
+PCBA control for mNIC product.,PE,Vipa Kittidilok
+Polycom Web portal,QE,Vipa Kittidilok
+RCAP Cycle,QE,Vipa Kittidilok
+RMA Report,Production,Vipa Kittidilok
+SMT Part Control,QE,Vipa Kittidilok
+Solder paste control,QE,Vipa Kittidilok
+SpectrumPro API Tools,Production,Vipa Kittidilok
+Spirent Web portal,QE,Vipa Kittidilok
+Stencil management,PE,Vipa Kittidilok
+Tooling Management System,PE,Vipa Kittidilok
+Zigbee Certificates Configuration Range control,TE,Vipa Kittidilok
+EtQ,Andrew Surin Balasingam,Ashish Patnaik
+Printcrib (Dropbox in Kulim),Bryce,Celestica - Ronnie Tan Kee Poh
+GlobalDox,,Celestica - Ronnie Tan Kee Poh
+Automated Inspection,tang xiaofei,Jinhua Hou
+CSU Receiving Issue Record,Li qiang,Jinhua Hou
+Smart Receiving,Xiaofei Tang,Jinhua Hou
+TKPLine4MChange,tang xiaofei,Jinhua Hou
+Web CTN Prining,tang xiaofei,Jinhua Hou
+WebReport,tang xiaofei,Jinhua Hou
+TKP & SEG Pre-configuration & Laster Job,Zhao wei,Jinhua Hou
+TKP Inline scanner control system,Zhao wei,Jinhua Hou
+AgingReport,Yingyu Ji,Jinhua Hou
+RecUrgentMaterial,Yingyu Ji,Jinhua Hou
+SEG data portal  ,Zhang man,Jinhua Hou
+Global SPC,Wes Karpiak,Kurt Braganza
+DocRecord Retrieval,Les Graham,Leslie Graham
+DocRecord Scanning,Les Graham,Leslie Graham
+RMRA tracking tool,Tiziana Mancini,Leslie Graham
+First Article tracking,Preyal Bhatt,Leslie Graham
+Deviation Tracking,L3 and HW,Leslie Graham
+Moisture-Sensitive Devices (MSD) control,Arun Thangavelu,Leslie Graham
+DocRecord,Wayne Cleland,Stayko Kopanarov
+Smart QDR/StopOrder,Kusumal Chomchuen,Teeraniti Teerawan
+Predisys,Chau Nguyen,Vinson Pao
+AMS JDM datafeed,QE,Vipa Kittidilok
+As Built Dell Comm,QE,Vipa Kittidilok
+Asset tag report for FB customer,PA,Vipa Kittidilok
+Bonepile dashboard,QE,Vipa Kittidilok
+Ciena Dna datafeed,Dexie,Vipa Kittidilok
+Ciena DOF,Dexie,Vipa Kittidilok
+CTH Scrap Dashboard. Export data from SAP to display on the Power BI,CQE : Upsorn Wiboonyodsarin,Vipa Kittidilok
+EMC datafeed,QE,Vipa Kittidilok
+Ericsson datafeed,Parnnatcha Koonwatr,Vipa Kittidilok
+ESD Report. Get data to display in the report.,Saksit Pingmuang,Vipa Kittidilok
+FB : MAP@Scale Datafeed,QE,Vipa Kittidilok
+FB: Product State Matrix,QE,Vipa Kittidilok
+Finisar eData,QE,Vipa Kittidilok
+Google ADI chip report,QE,Vipa Kittidilok
+IBM Report,QE,Vipa Kittidilok
+IC Programing & Label Printing web application,Saroash Sabkham,Vipa Kittidilok
+Kapok asbuilt datafeed,QE,Vipa Kittidilok
+Oracle ODW datafeed,QE,Vipa Kittidilok
+Polycom ASN datafeed.,QE,Vipa Kittidilok
+QDR web report,Sirichol Kampanawarawan,Vipa Kittidilok
+QDW google datafeed,QE,Vipa Kittidilok
+RFPY,Quality Team,Vipa Kittidilok
+Shipment JDM datafeed,QE,Vipa Kittidilok
+Ciena DMS (repair) datafeed,Dexie,Vipa Kittidilok
+Radix google datafeed,QE,Vipa Kittidilok
+ACL,Safety,Vipa Kittidilok
+Windows RDS,David Geddes,Ashish Patnaik
+CTDCR,Glenda Taylor/Kim Koon,Ashish Patnaik
+Enovia CCM,Toh Kim Koon,Ashish Patnaik
+Enovia Defense,David Geddes,Ashish Patnaik
+Enovia Matrix (Web),David Geddes,Ashish Patnaik
+Enovia Semi,Bruce McGibbon,Ashish Patnaik
+CSC (previously Liveshare),Susan Li,Eryka Tan
+MercuryGate TMS,"Ryan Bloor
+Tai Yau Ng",Business Owned
+OSPR,GBS Kulim,Business Owned
+SROP,GBS Kulim,Business Owned
+E programming tool,GBS Kulim,Business Owned
+Material Balance Sheet All Project 2.3.2 (EMT D&S),GBS Kulim,Business Owned
+NITC Tool V1.0.4,GBS Kulim,Business Owned
+IDM ( Indect Material Planning),MP,Business Owned
+Forecast Xpert,GBS Kulim,Business Owned
+SR Manual Commit,GBS Kulim,Business Owned
+Vie,GBS Kulim,Business Owned
+Purchase Inquiry form (SMI),GBS Kulim,Business Owned
+Serial Number Label Printing,CL Lee,Celestica - Ronnie Tan Kee Poh
+Ship Control List (Excel Macro),Hafizan,Celestica - Ronnie Tan Kee Poh
+Smart Wip/ Station Manager,CL Lee,Celestica - Ronnie Tan Kee Poh
+SMT part shortage report,Azni/Susie,Celestica - Ronnie Tan Kee Poh
+SN INFORMATION RETRIEVER,Zu/ Adila,Celestica - Ronnie Tan Kee Poh
+Station Manager,CL Lee,Celestica - Ronnie Tan Kee Poh
+Syncronize HR to ODC,Site IT,Celestica - Ronnie Tan Kee Poh
+Washing Dashboard (APEX),SK Goh,Celestica - Ronnie Tan Kee Poh
+WIP PI Tool (web),Siew Peng,Celestica - Ronnie Tan Kee Poh
+IDM purchase planning,Lim Siew Peng,Celestica - Ronnie Tan Kee Poh
+SAP GRC,TBD,Chris Hall
+E&O Details,Larisa Mottaz,Craig Lumsden
+E&O Summary,Larisa Mottaz,Craig Lumsden
+BluePrism,Multiple,Craig Lumsden
+Business Object (BO),Multiple,Craig Lumsden
+Catalyst Power BI (PBI) Dashboard,Multiple,Craig Lumsden
+Celonis Process Mining,Susan Li,Craig Lumsden
+PowerBI - Demand Analyzer,Susan Li,Craig Lumsden
+Rapid Response - Enterprise Waterfall,Susan Li,Craig Lumsden
+SAP BW/4 HANA,Multiple,Craig Lumsden
+SC Platform - DataHub,Susan Li,Craig Lumsden
+SCMDW,Multiple,Craig Lumsden
+SCMDW Customer Feeds,Multiple,Craig Lumsden
+SAP_BOM,n/a,Cristian Ungur
+SAP_INFOREC,Moisés López,Cristian Ungur
+SAP_MB51,Pedro Hernández,Cristian Ungur
+SAP_OAR,Susana Prieto,Cristian Ungur
+SAP_OAR_DEPREQ,Susana Prieto,Cristian Ungur
+SAP_OPORDR,Susana Prieto,Cristian Ungur
+SAP_QSPEC,Susana Prieto,Cristian Ungur
+SAP_SAPITEMS,Susana Prieto,Cristian Ungur
+SAP_STOCK_IM,Susana Prieto,Cristian Ungur
+SAP_STOCK_WM,Susana Prieto,Cristian Ungur
+SAP_ZAVL,Susana Prieto,Cristian Ungur
+SAPCONSUMREPIDOC,Susana Prieto,Cristian Ungur
+SAPDECPRODW.cmd,Susana Prieto,Cristian Ungur
+SAPDESADV,Susana Prieto,Cristian Ungur
+SAPGOODREC,Susana Prieto,Cristian Ungur
+SAPINVOICE,Susana Prieto,Cristian Ungur
+SAPORDCONF,Susana Prieto,Cristian Ungur
+SAPORDRSP,Susana Prieto,Cristian Ungur
+SAPORDSCRAPREWORK,Susana Prieto,Cristian Ungur
+SAPPOSERIAL,Susana Prieto,Cristian Ungur
+SAPRELORD,Susana Prieto,Cristian Ungur
+SAPSHP280,Susana Prieto,Cristian Ungur
+SAPSHPMNT,Toni Calatrava,Cristian Ungur
+Celestica Partners Portal (Customer / Supplier Portal),Paul Stanners,Jeff Little
+SAP A1,,Eryka Tan
+SAP GT,,Eryka Tan
+SAP GTS,Veronica Palacios,Eryka Tan
+SAP WS,,Eryka Tan
+EDI,Susan Li,Ganesh Ramchandra Khandekar
+EDI,"Susan Li,Oscar,Ian Yap",Ganesh Ramchandra Khandekar
+Scavenger,Stephen Smith,Goran Jankuloski
+eReports SMI2 Static Reports,Larisa Mottaz,Ivan Lin
+Global OAR - Rapid,Susan Li,Ivan Lin
+Supplier Email Collaboration - GAE,Susan Li,Ivan Lin
+Utopia,Multiple,Ivan Lin
+Vechile System,Linda,Jinhua Hou
+Warehouse return system,Rebecca Fang,Jinhua Hou
+Cycle Count web application,Rebecca,Jinhua Hou
+Gate Pass,Luice Liu,Jinhua Hou
+PI,Luice Liu,Jinhua Hou
+RSN Application,Luice Liu,Jinhua Hou
+Shipping Aigle,Rebecca,Jinhua Hou
+Work Flow,Rebecca,Jinhua Hou
+Kaimono(Pull list system),Kenichi Nakano,Kazuya Takahashi
+aPriori Software,BC Lim,Kurt Braganza
+API Application,Steven Wang,Leslie Graham
+Part Marking Tool,Les Graham,Leslie Graham
+Power BI Report Server (on-prem),Les Graham,Leslie Graham
+API Application,Brian Gavas,Leslie Graham
+Kinaxis,Ian Hayhurst,Viswanath Ammisetty (Viswa)
+Forecast file-Inventory,Rolando Calderon,Rodolfo Guillen Martinez
+EMT,Janak Shah,Siriwut Youdee
+CGP Remote Desktop (https://cgpapps.celestica.com ),Brad Davis,Stayko Kopanarov
+GlobalScape (https://eft.celestica.com),Yadanand Singh ,Steven Cheng
+Print Crib (CGP EFT),Yadanand Singh ,Steven Cheng
+Celestica Customer Data Management,Tracy Smiley,Lise Bourjot
+CM Apps - PCMA,Tracy Smiley,Lise Bourjot
+CM Apps - QuoteApp Internal,Tracy Smiley,Lise Bourjot
+CM Apps - QuoteApp Portal,Tracy Smiley,Lise Bourjot
+E&O PM,"Larisa Mottaz
+Vince",Lise Bourjot
+Global OAR,Susan Li,Lise Bourjot
+MVP Tracker,,Lise Bourjot
+Part Status,Tracy Smiley,Lise Bourjot
+PCR Tool,Tracy Smiley,Lise Bourjot
+QSPECS External,Ken Chow,Lise Bourjot
+QSPECS Internal,Ken Chow,Lise Bourjot
+SMARTOPS,Larisa Mottaz,TBD
+Suppliers Submission of RFQ's,Tracy Smiley,Lise Bourjot
+Smart Receiving,Praphan Phatcharakul,Teeraniti Teerawan
+MyLogistics,Wijada Rattamanee,Teeraniti Teerawan
+Smart Warehouse,Praphan Phatcharakul,Teeraniti Teerawan
+Smart Warehouse DCO,Praphan Phatcharakul,Teeraniti Teerawan
+Smart Part Conversion,Praphan Phatcharakul,Teeraniti Teerawan
+Smart Return,Praphan Phatcharakul,Teeraniti Teerawan
+Smart Cycle Counting,Praphan Phatcharakul,Teeraniti Teerawan
+API Revolution,Praphan Phatcharakul,Teeraniti Teerawan
+BOQ Collaboration,Tracy Smiley,Lise Bourjot
+IHS,Louren,Lise Bourjot
+Imports DB,,Lise Bourjot
+eRSN,Logistic,Vipa Kittidilok
+Indirect Material ,Warehouse,Vipa Kittidilok
+Pull List,Warehouse,Vipa Kittidilok
+eRSN,Logistic : Mayuree Chaladkeb,Vipa Kittidilok
+EVA batch Control,SCM,Vipa Kittidilok
+Inbound Shipment Tracking,Logistic,Vipa Kittidilok
+IND Part Number / MISC Requests,SCM,Vipa Kittidilok
+Indirect Material Thailand,Warehouse,Vipa Kittidilok
+Inventory Transfer (eIT),Warehouse,Vipa Kittidilok
+MFM (Material Forecast Management),Nantaphat Boontham,Vipa Kittidilok
+NPI RFQ,Nantaphat Boontham,Vipa Kittidilok
+Open Market RFQ,Nantaphat Boontham,Vipa Kittidilok
+Pull List,Praphan Phatcharakul,Vipa Kittidilok
+REC&IQA Dashboard,Praphan Phatcharakul,Vipa Kittidilok
+SCM Auto Report,Kotchaporn Ounarat,Vipa Kittidilok
+Scrap on Web,Production,Vipa Kittidilok
+Itron Centron Nics Ships,PA,Vipa Kittidilok

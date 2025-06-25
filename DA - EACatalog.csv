@@ -1,0 +1,543 @@
+Application,Biz Owner,IT Owner,EA Rep
+Dynamics 365,,Andrew Sun,Jeff Little
+ExperLogix,Melanie Patterson,Nobody - Angelo only supports the D365 module of Experlogix,
+LinkedIn,Steve DeCorpo,Business supported application Steve DeCorpo,
+Ektron Software,Jennifer Dietrich,Jeff Little,Jeff Little
+Impartner,Devann Garner (Sales Director for Portfolio Solutions.),Davide Rubino,NA
+Zoominfo,,Andrew Sun,
+Channel Mechanics,Devann Garner (Sales Director for Portfolio Solutions.),Davide Rubino,
+SalesForce,Gavin Cato Devann Garner,Davide Rubino,
+,,Goran Jankuloski,
+QuoteApp,Tracy Smiley,Goran Jankuloski,Avinash Shukla
+Supplier RFQ Portal,Tracy Smiley,Goran Jankuloski,
+CM Apps - PCMA,Tracy Smiley,Goran Jankuloski,
+Part Status,Tracy Smiley,Goran Jankuloski,
+windchill,Tracy Smiley,Goran Jankuloski,
+QMT (Duplicate),N/A,N/A,
+Scavenger,Tracy Smiley,Goran Jankuloski,
+Synetics App Library - Q,,,
+Accruant Meridian,Peter Barber,,
+Adobe Illustrator,,,
+Altair Hypermesh,Peter Barber,Kurt Braganza,
+Altium API,Louren Meneses,Wayne Richings,
+Altium Design,Peter Barber,Kurt Braganza,
+Altium DXP(gerber viewer),,Wayne Richings,
+Ansys SIWave,Peter Barber,,
+ARAS TDM,Peter Barber,Wayne Richings,
+Atlassian JIRA (duplicate with Jira),,,
+Autodesk,Peter Barber,,
+Autodesk CFD,Peter Barber,,
+Autodesk Inventor,Peter Barber,,
+Brady Label Mark,Peter Barber,,
+CAD,Peter Barber,,
+CAD Vaulting,Peter Barber,,
+Cadence Concept / allegro / ORDCAD,,,
+Cadence Sigrity,Peter Barber,,
+CARE Software,,,
+CGP FileShare,,,
+Clip Project Professional marking,,,
+Codevision AVR,,,
+Cogition cockpit,Peter Barber,,
+Comsol,,,
+CST 3D EM STUDIO,Peter Barber,,
+DFMA (BDI),Tom Blaszczyk,Kurt Braganza,
+DFMPro,Peter Barber,,
+ECAD,Peter Barber,,
+"ERAI, INc",Ghazi Jammal,Wayne Richings,
+Essential Macleod,,,
+Flowtherm,,,
+Fusion 360,,,
+Hyperlynx PCB Simulator,,Kurt Braganza,
+Javeline Solidworks,,,
+Keysight ADS,,,
+Labview,Sergio Lujan Cuenca - Valencia Only.,Moises Lopez Moreno,
+Labview Vision development module,,,
+Matlab-Simulink-Simscape,Peter Barber,,
+Mentor Graphics,Peter Barber,,
+NI Embedded Control & Monitoring Suite,,,
+NI Switch Executive,,,
+Optiwave,,,
+ProE,Peter Barber,,
+PSIM,,,
+PTC Creo Essentials (T1),Kavin Li Wenjin,Paul Stanners,
+Quartus,,,
+RMSys,Peter Barber,,
+Siemens FloTherm (Duplicate of FlowTherm?),,Wayne Richings,
+Simutech for Ansys,Farhad Pakravan,Paul Stanners,
+SolidEdge,Peter Barber,,
+Solidworks,,,
+Spice circuit simulator,,,
+(ALC) SOLIDWORKS PREMIUM NETWORK,Gary See Thoe Huat,,
+ALC) SOLIDWORKS STANDARD NETWORK,Gary See Thoe Huat,,
+(ALC) SOLIDWORKS PDM PROFESSIONAL CAD EDITOR NETWORK,Gary See Thoe Huat,,
+(ALC) SOLIDWORKS PDM PROFESSIONAL CAD EDITOR NETWORK,Gary See Thoe Huat,,
+Solidworks  Electrical,Gianni Facchini,Kurt Braganza,
+SolidWorks Flow Simulation,Peter Barber,Kurt Braganza,
+SolidWorks Flow Simulation Electronic Cooling,Peter Barber,Kurt Braganza,
+SolidWorks Plastics Standard,Peter Barber,Kurt Braganza,
+,,,
+Synplify,Jeremy Lu,,
+Test Stand,,,
+TestStand (NI),Peter Barber,,
+TestWay,Kevin Ho,,
+Valor NPI,Tom Blaszczyk,Kurt Braganza,
+"Valor Process Prep (Test Expert, Stencil)",Tom Blaszczyk,Kurt Braganza,
+Vision Development,,,
+Vivado,Jeremy Lu,,
+VPIphotonics,,,
+Windchill,Michael Weiler,None,
+Zemax,,,
+Zemax Optic Studio,,Wayne Richings,
+ZWCAD,,,
+"Visio, Brady Workstation, 
+Brother P-touch Editor, DYMO Connect",,,
+Global Matrix,Dave Geddes,Ashish Patnaik,
+Enovia CCM NGLPM,Dave Geddes,Ashish Patnaik,
+Celestica Customer Data Management,,Ashish Patnaik,
+BOQ Collaboration,Tracy Smiley,4/30 JT: Should be good,
+CTDCR,Dave Geddes,Ashish Patnaik,
+"Next Gen Enovia ( AD, HPS)",Dave Geddes,Ashish Patnaik,
+aPriori Software,BC Lim,Kurt Braganza,
+Polarion (Demised),Peter B,Wayne,
+,,,
+Windchill PDM,Jorge Juarez Urrutia,Wayne,
+Solidworks PDM,John Floyd,Wayne,
+"VIM opentxt (ICC/VIM,Archive Center, 
+Approval Portal)",Leslie Smeyers,Keng Ee Seang,
+SAP A1,Anila Grove/Jeff Murphy,Yuh Ling Sam/Keng Ee Seang,
+SAP GT,Anila Grove/Jeff Murphy,Luis Garcia,
+SAP GT PP,,,
+SA GT MM,,,
+PBS,David Wong,Michael Leong,Hasan Ali
+Utopia,Multi,Ivan Lin,
+Transporeon,Dominic Carabine,Lise Bourjot,
+QMT,Tracy Sutton,Tim Marchen,
+Celestica DNC,Fremont - Site,Kurt Braganza,
+"Celestica Partners Portal (Customer /
+ Supplier Portal)",,Davide Rubino,
+SAP WS,Anila Grove/Jeff Murphy,Luis Garcia,
+"
+
+LiveShare",,Susan Li,
+HP Anyware PCoIP Client,,,
+SAP PCI owned,Hong Soo Lim,Clement Chia's replacement,
+,,,
+InforLN CloudSuite ERP (Gov Cloud),Brian Mathews / Robin Connelly,Vijay Natarajan,
+"Aptean, Made2Manage ERP",Demised (Mexicali),Claudio Cazares,
+,,,
+APS,,,
+HON SAP ERP,Tony Blakeley,Bruce Cinko,
+WebPlan Adv Planning (Duplicate.  Aka Kinaxis),,,
+"Epicor, Manage2000 ERP",**Brockton**,**Brockton**,
+Infor XA ERP,Rob Reitemeier,Barry Trejo,
+,,,
+Infor ERP,??,??,
+,,,
+Epicor ??? Which version,Korea & Iclean,Warren Shimizu,
+,,,
+Enterprise Dashboard,Tracy Smiley,Goran Jankuloski,
+Kinaxis Rapid Response,Susan Li/Jeff Murphy,Viswa Ammisetty,
+,,,
+E2Open CSC Portal,Susan Li/Jeff Murphy,Susan Li/Eryka Tan,
+Qspecs Internal (External demised 2024 - JL),Tracy Smiley,Goran Jankuloski,
+Order Book,Connie Wan,Goran Jankuloski,
+PCR Tool  (Demised),N/A,Goran Jankuloski,
+Managed Supplier EDI,Susan Li/Jeff Murphy,Ganesh Ramchandra Khandekar,
+NetComponents,Tracy Smiley,Goran Jankuloski,
+GlobalScape (https://eft.celestica.com),Dominic Carabine,Edward Kung,
+SCBN,Susan Li/Jeff Murphy,Ganesh Ramchandra Khandekar,
+SMARTOPS (Demised),N/A,N/A,
+Ivalua Indirect Procurement,Caterina Spence,Goran Jankuloski,John Tseng
+Synetics Supplier Portal,Bruce MacGibbon,Chris Sirovy,
+Mercury Gate TMS,Tai Yau Ng,Business owned,
+SAP GTS,Veronica Palacios,Eryka Tan,
+ImportsDB,Yadanand Singh,Goran Jankuloski,
+,,,
+"SPro1.x (EMS, CE, AMS; HT, AD)",Biz Owner (Operation / Engineer) by Site,"Andres Garate (Product)
+Virgilio JR Gaspay (COE)",
+"SPro2.x ( Std Edition SE, HT)",Biz Owner (Operation / Engineer) by Site,"Andres Garate (Product)
+Virgilio JR Gaspay (COE)",
+iOperation,Biz Owner (Operation / Engineer) by Site,Somphoon Kerdthong,
+Viper,Biz Owner (Operation / Engineer) by Site,"Andres Garate (Product)
+Virgilio JR Gaspay (COE)",
+Digital Factory (Duplicate),,Somphoon Kerdthong,
+Ops Central,"Armin Bogosian
+Chris Barlosky",Claudio Yin,
+Hino ODC,Japan Ops,"Andres Garate (Product)
+Virgilio JR Gaspay (COE)",
+Optimus,Biz Owner (Operation / Engineer) by Site,Dome Tepupatump,
+PRIME,Warmsprings,"Andres Garate (Product)
+Virgilio JR Gaspay (COE)",
+Smart Receiving,Biz Owner (Operation / Engineer) by Site,Teeraniti Teerawan,
+Valor Vnpi,Tom,Kurt Braganza,
+Valor VPL  Part Library,Biz Owner (Engineering),Kurt Braganza,
+Synetics Local Apps,Melissa Lessard,Chris Sirovy,
+,,,
+InforLN CloudSuite ERP (Gov Cloud),"Brian Matthews
+Robin Conelly",Vijay Natarajan,
+Print Crib (CGP EFT),Yadanand Singh,Wesley Choo Mang,
+"Aegis, FactoryLogix MES","Axel Figueroa - CRT
+? - MG",Vijay Natarajan,
+"Xemelgo ""Work-In-Process""",,,
+FALSE,Not Started,,
+Made2Manage MES,Demised (Mexicali),Claudio Cazares,
+NEt Inspect QMS,Wayne Cleland,,
+Manage 2000 MES,Brokton,Brokton,
+eShop MES,,,
+,,,
+Cell Fusion MES,"Ahmad Afendi Bin Nawawi
+Neal Martin",NA,
+Epicor?,san Pham / Korea (ask San who is the contact there),Warren S,
+,,,
+Seimes Calor MES,?,,
+Kardex PPG (CNO),Asif Iqbal,Luis Raul Garcia Solis,
+SOAC,Susana Prieto (TBD),Cristian Ungur,
+,,,
+ETQ,Andrew Balasingham,Ashish Patnaik,
+Accruant Meridian,,,
+Web Search Services subscription-BOM Management,Louren Meneses,Lise Bourjot,
+Envizi (IBM),Jean-Claude LeBlanc,Lise Bourjot,
+QSPECs,Tracy Smiley,Goran Jankuloski,
+Cogition cockpit,,,
+APIS (PFMEA),,,
+ACL Tax Auditing,Nadene Tsao,,
+Blackline,Sultan Nasrulla,"Business supported application. Sultan Nasrulla
+GAW integration Ganesh Ramchandra Khandekar",Jeff Little
+Cash Application-High Radius,"Gabriela Jurjea (GT) /
+ Elaine Zhang(A1)",,
+eShare (demised ERS 2024 - JL),,,
+Longview / Khalix,Sultan Nasrulla,Business supported application.Sultan Nasrulla,Jeff Little
+Longview tax solution,Nadene Tsao,Lise Bourjot,
+Lucernex,also LISTED below - is it duplicate,,
+XBRL service for digital tagging,Tien Song,Lise Bourjot,
+"OneSource Financial 
+Reporting (Thomson Reuters)",Nadene Tsao,Lise Bourjot,
+OMVA Data Integration (Azure),Gomathy Narayana Iyer,Craig Lumsden,
+Process Runner / GLSU,Thomas Chang (GLSU),Luis Raul Garcia Solis,
+Reval Risk & Treasury Management,Kristine Cheng,Lise Bourjot,
+ICC,Leslie Smeyers,Eryka Tan,
+Vertex STQ,Rohan Thakkar,Eryka Tan Lise Bourjot,
+Webfiling,"Anila Grover, Tien Song",,
+Lucernex,"Anila Grover,Tammy Eng",,
+,,,
+Fx All,Roxana Codruta Balint,,
+Winshuttle  (Precisely ),Oscar Puche,Luis Raul Garcia Solis,Jeff Little
+Core Financials,Kevin Morrison,Goran Jankuloski,Jeff Little
+Risks & Opportunities (R&O),Mary Wu,Goran Jankuloski,Jeff Little
+ED File Generator,Tim Marchen,Goran Jankuloski,Jeff Little
+,,,
+Employee Central,Penny Cavener,Belinda Cirianni,Avinash Shukla
+ADP Globalview,Penny Cavener,Penny Cavener,Avinash Shukla
+iJob,Penny Cavener,Penny Cavener,Avinash Shukla
+Kronos-MX,Penny Cavener,Penny Cavener,Avinash Shukla
+ADP Streamline,Penny Cavener,Penny Cavener,Avinash Shukla
+Kronos-ES,Penny Cavener,Penny Cavener,Avinash Shukla
+Bravo,Nancy Allen,Belinda Cirianni,Avinash Shukla
+TrueHR,Penny Cavener,Penny Cavener,Avinash Shukla
+Eot Overtime Management,Penny Cavener,Penny Cavener,Avinash Shukla
+eTime  (Workforce Manager),Penny Cavener,Penny Cavener,Avinash Shukla
+TMS - Time Management System,Penny Cavener,Penny Cavener,Avinash Shukla
+MegaPay,Penny Cavener,Penny Cavener,Avinash Shukla
+LinkedIn,TINA LOMBARDO,business owned,Avinash Shukla
+Filehold,Penny Cavener,Belinda Cirianni,Avinash Shukla
+Lenel Security System,Rick Cyr,Terry Gilloch,Avinash Shukla
+Concur Expense / Travel,Anila Grover,Belinda Cirianni,Avinash Shukla
+Pluralsight,Lina Wu,??,Avinash Shukla
+Udemy,Jordan Berg,Lise Bourjot,Avinash Shukla
+EY-Immigration assessment,John Shaugnessy,business owned,Avinash Shukla
+GEM,Steve DeCorpo,Belinda Cirianni,Avinash Shukla
+Skillsoft,Jordan Berg,business owned (HRIS supported for integration),Avinash Shukla
+SAI 360,Matt Greenidge,Belinda Cirianni,Avinash Shukla
+SAI,Siobhan Silva,business owned (HRIS supported for integration),Avinash Shukla
+FCM Travel,Teresa Man,Belinda Cirianni,Avinash Shukla
+Gemalto 2FA,duplicate - Thales MFA,,Avinash Shukla
+DongBao HR Software  (ask),,TBD,
+Google Workspace,Santhosh Srinivasan,Steven Cheng,N/A
+Box.com (Demised),N/A,N/A,Avinash Shukla
+CloudM Mail Archiving,Santhosh Srinivasan,Steven Cheng,N/A
+Dropbox,NA,Michael Leong????,NA
+Citrix,Tracy Smiley,Ashish Patnaik,Avinash Shukla
+DocuSign,Andrew Sun,Andrew Sun,Avinash Shukla
+SendGrid (Mail Transfer Service),Steven Cheng,Edward Kung,N/A
+Miro,NA,Isaac Romero,N/A
+Atlassian ( Trello) (*see Jira),,,Avinash Shukla
+Zoom,Tony Rangel,Andrew Sun Davide Rubino,Avinash Shukla
+Trend Micro IMVSA messaging Gateway,,,
+,,,
+SendMail chqsmtp01,Steven Cheng,Edward Kung,Jeff Little
+,,,
+Keyedin Enterprise,Grace Rodriguez Santos,Craig Lumsden,Avinash Shukla
+Smartsheet,Wayne Richings,Grace Rodriguez Santos,Avinash Shukla
+RedMine - migrated to Jira,Shanghai GDS SAE,Eve Hou,Avinash Shukla
+JIRA,Shanghai GDS SAE,Eve Hou,Avinash Shukla
+IBM Doors,No Data,No Data,Avinash Shukla
+Microsoft Project,Windows Application,Sites,Avinash Shukla
+,,,
+SAP PO,Ganesh Ramchandra Khandekar,Ganesh Ramchandra Khandekar,
+GoAnywhere FTP,Ganesh Ramchandra Khandekar,Ganesh Ramchandra Khandekar,
+Celestica FTP Service,,Hai Kuan Cheoh,
+IBM API Connect,Ganesh Ramchandra Khandekar,Ganesh Ramchandra Khandekar,Jeff Little
+CLS Portal,,Jeff Little,
+PowerBI,Craig Lumsden,Robert Durrant,
+HRDW,Penny Cavener,Belinda Cirianni,
+HRDW BO,Penny Cavener,Belinda Cirianni,
+Demand Analyzer,,,
+MS Azure DataFabric,,Craig Lumsten,
+Backline app,Sultan Nasrulla Thomas Chang,Lise Bourjot,
+IHS markit S&P PP,Louren Meneses,Lise Bourjot,James Davison
+Diligent,Rohan Thakkar,Lise Bourjot,
+SAP BW4Hana,Multi pending on Data Area,Bernie Lui,
+Celonis (demised 2020?),,,
+SAP Business Objects,Multi pending on Data Area,Bernie Lui,
+Minitab (ebase),Chris Barlosky,Kurt Braganza,James Davison
+SAP BW/4,Craig Lumsden,Craig Lumsden,
+PowerBI - Demand Analyzer,,Craig Lumsden,
+Global Scape (https://esp-eft.celestica.com),Yadanand Singh,Moises Lopez Moreno,
+eReports SMI2 Static Reports (Demised <2024 - JL),,,
+Databricks,Jennifer Bond,Lise Bourjot,James Davison John Tseng
+SCMDW,Craig Lumsden,Ron Gallant,
+Foleon,Siddharth Khanna,Jeff Little,Jeff Little
+SC Platform - DataHub,Craig Lumsden,Guillermo Rivas,
+Matlab,,Wayne R,
+Nasdaq,Matthew Michael Pallotta,Lise Bourjot,
+SAP BODS,Craig Lumsden,Bernie Lui,
+SEC Reporting Solution (Workiva),Tien Song,Lise Bourjot,
+Google BigQuery,Multi?,Steven Cheng,N/A
+CEDW,Multi pending on Data Area,Craig Lumsden,
+Python,,,Kevin Tokar
+BDI software (same as DFMA),,,
+Azure SQL Server,Multi?,Guillermo Rivas,
+GitLab,Ivan Lin,Kevin Tokar,
+Azure Devops,Multi?,Guillermo Rivas,
+IAR systems complier (embedded),,,
+Apple Developer Program,,,
+"Visual Studio (C#, .Net)",,,
+Rational Application Developer,Goran Jankuloski,Goran Jankuloski,
+Snyk,Kennenth Sheng,Prasanna R,Kevin Tokar
+BlackDuck,Mini Shah,,
+,,,
+Alphasense,Austin Kairis,Business supported application Jennifer Bond's team,
+ArcSight,Santhosh Srinivasan,"Manoj Padmaja Rajendran 
+Lucian Martin",Kenneth Sheng
+BetterCloud,,Kenneth Sheng,
+BeyondTrust,Cristian Ungur,Jeff Little,
+Bigfix,Santhosh Srinivasan,Rogelio Calderon Garcia,
+CGP - Certificate Printing (No Software Required),Yadanand Singh,Biz owned,
+"CGP Remote Desktop 
+(https://cgpapps.celestica.com )",Yadanand Singh,Steven Cheng,
+Changing the Game Award (Demised),N/A,N/A,
+Dameware,Peter Barber,,
+Design data server,,,
+GIB,N/A,N/A,N/A
+Glean,,James Davison,
+Insync Cloud storage Elite,,,
+Netscout nGenius Pulse,Heng Khoon Choo,Prakash Koshy,
+Oracle,Osgood Vogler,Prakash Koshy,
+Pagerduty,Santhosh Srinivasan,Lucian Martin,
+Provalidus,,Majid Almomen,Marcelo Salazar Dipres
+RFP-Requirements software,Yon Floyd,Wayne Richings,
+ServiceNow,Multi,Andrew Sun,
+,,,
+"Notepad++ , 7-zip , filezillza , winscp",,,
+6clicks,Santhosh Srinivasan,Murugappan Krishnan,Avinash Shukla
+Airgap,Santhosh Srinivasan,Santhosh Srinivasan,Avinash Shukla
+AppviewX (CLM),Santhosh Srinivasan,Kenneth Sheng,Avinash Shukla
+Aruba ClearPass,Santhosh Srinivasan,Sreeni K S,Avinash Shukla
+Avanan,Santhosh Srinivasan,Manoj Padmaja Rajendran,Avinash Shukla
+Axiom Cyber - Magnet Forensics,Santhosh Srinivasan,Manoj Padmaja Rajendran,Avinash Shukla
+BitLocker,Santhosh Srinivasan,Marius-Gavril Buzlea,Avinash Shukla
+CA Validator,Kevin Walsh,Majid Almomen,N/A
+Checkpoint,Santhosh Srinivasan,Sreeni K S,Avinash Shukla
+Core Impact,N/A,N/A,Avinash Shukla
+Crowdstrike,Santhosh Srinivasan,Manoj Padmaja Rajendran,Avinash Shukla
+CyberArk,Santhosh Srinivasan,Ahmad Faiz,Avinash Shukla
+DMARCian - DMARC Messaging Security & Monitoring Tool,Santhosh Srinivasan,Steven Cheng,N/A
+EntraID Connect/AAD Connect,Santhosh Srinivasan,Kenneth Sheng,Avinash Shukla
+esentire,Santhosh Srinivasan,Manoj Padmaja Rajendran,Avinash Shukla
+Forcepoint DLP,Santhosh Srinivasan,Murugappan Krishnan,Avinash Shukla
+Google MDM,Santhosh Srinivasan,Kenneth Sheng,Avinash Shukla
+IBM Tivoli,Santhosh Srinivasan,Prakash Koshy,Avinash Shukla
+Identity SUS2- MS AD,Santhosh Srinivasan,Kenneth Sheng,Avinash Shukla
+MSSP,Santhosh Srinivasan,Manoj Padmaja Rajendran,Avinash Shukla
+Nessus Professional,N/A,N/A,Avinash Shukla
+OneTrust- Data guidance,Santhosh Srinivasan,Shobana S,Avinash Shukla
+OT Security ( to review ),Santhosh Srinivasan,Manoj Padmaja Rajendran,Avinash Shukla
+Prodaft USTA,Santhosh Srinivasan,Manoj Padmaja Rajendran,Avinash Shukla
+Proofpoint,Santhosh Srinivasan,Murugappan Krishnan,Avinash Shukla
+Qualys,Santhosh Srinivasan,May Wong,Avinash Shukla
+Qualys,Santhosh Srinivasan,Manoj Padmaja Rajendran,Avinash Shukla
+Qualys Patch Management,No Biz Ower.  IT own,Barry Trejo,Avinash Shukla
+Rapid7 Toolset,N/A,N/A,Avinash Shukla
+Riskonnect,Anila Grover,Santhosh Srinivasan,Avinash Shukla
+SAP GRC,,Chris Hall,Avinash Shukla
+Security Scorecard,Santhosh Srinivasan,Manoj Padmaja Rajendran,Avinash Shukla
+Single User Source,Santhosh Srinivasan,Kenneth Sheng,Avinash Shukla
+Sumologic,Santhosh Srinivasan,Manoj Padmaja Rajendran,Avinash Shukla
+Thales CipherTrust,Santhosh Srinivasan,Kenneth Sheng,Avinash Shukla
+Thales Safenet/Mobilepass+,Santhosh Srinivasan,Kenneth Sheng,Avinash Shukla
+ThreatLocker,Santhosh Srinivasan,Manoj Padmaja Rajendran,Avinash Shukla
+Veeam,Santhosh Srinivasan,Prakash Koshy,Avinash Shukla
+VPAM licenses,Santhosh Srinivasan,Manoj Padmaja Rajendran,Avinash Shukla
+Wiz,Santhosh Srinivasan,Kenneth Sheng,Avinash Shukla
+Zscaler,Santhosh Srinivasan,Sreeni K S,Avinash Shukla
+putty,,,Avinash Shukla
+tftpd69,,,Avinash Shukla
+Wonderbotz Blue Prism 25,Craig Lumsden,Ivan Lin,James Davison Jeff Little
+Power Automate (Not used / Not supported),N/A,Craig Lumsden,
+WinRunner (Demised),,,
+WinShuttle (To be Demised),Oscar Puche,,
+Process Runner (WinShuttle Replacement),Oscar Puche,Luis Raul Garcia Solis,
+Cadence/Concept,Peter Barber,,
+Mentor Graphics,Gordan Yang,,
+Creative Cloud,,,
+Altium Designer,Peter Barber,,
+Cadence/ORCAD,Peter Barber,,
+Autodesk,Peter Barber,,
+Solidworks Electrical,Peter Barber,,
+Cadence/Allegro,Peter Barber,,
+Mentor Graphics,Gordan Yang,,
+Altium Designer,Peter Barber,Wayne Richings,
+SolidWorks Electrical,Peter Barber,,
+ORCAD,Peter Barber,,
+CST 3D EM STUDIO,Peter Barber,,
+Altium DXP(gerber viewer),Peter Barber,,
+SolidWorks,Peter Barber,,
+SolidWorks Plastics Standard,Peter Barber,,
+SolidWorks Flow Simulation,Peter Barber,,
+SolidWorks Flow Simulation Electronic Cooling,Peter Barber,,
+SolidWorks Electrical 3D,Peter Barber,,
+FactoryTalk View Studio Enterprise,,,
+Studio 5000 Professiona,,,
+SolidWorks PDM Standard,Peter Barber,,
+SolidWorks PDM Pro,Peter Barber,,
+ProE,Peter Barber,,
+SolidEdge,Peter Barber,,
+Autodesk Inventor,Peter Barber,,
+ANSYS,Peter Barber,,
+Autodesk CFD,Peter Barber,,
+Brady LabelMark,Bruce M,,
+Clip Project Professional marking,Bruce M,,
+Microsoft Project,Peter Barber,,
+Smart Sheets,Peter Barber,,
+Microsoft Excel,Peter Barber,,
+IBM Doors,Peter Barber,,
+RMsys,Peter Barber,,
+Cogition cockpit,Peter Barber,,
+Accruant Meridian,Peter Barber,,
+JIRA,Peter Barber,,
+Atlassian JIRA software (Cloud),Peter Barber,Goran Jankuloski,
+RedMine,Peter Barber,,
+Enovia/Matrix,Peter Barber,,
+EDMS,Peter Barber,,
+ETQ,Peter Barber,Ashish Patnaik George Rodriguez,
+SubVersion (SVN),Bruce M,,
+Git,Kittipong,Wayne Richings,
+GitLab (Front end for Git),Kittipong,Wayne Richings,
+IAR systems complier (embedded),Kittipong,Wayne Richings,
+Apple Developer Program,Kittipong,Wayne Richings,
+"Visual Studio (C#, .Net)",Kittipong,,
+Keil MDK Lite,Kittipong,,
+IntelliJ IDEA,Bruce M,,
+MPLAB X IDE/IPE,Kittipong,,
+arm-linux-gnueabih,Kittipong,,
+Labview,same as matlab,,
+TestStand (NI),Peter Barber,,
+Labview Vision development module,,Wayne Richardings,
+Dameware,Peter Barber,Wayne Richings,
+EasyEDA,Kittipong,Wayne Richings,
+Minitab,Peter Barber,Wayne Richings,
+Altium Designer,Peter Barber,,
+SolidWorks,Peter Barber,,
+NI Embedded Control & Monitoring Suite,Peter Barber,,
+NI Switch Executive,Peter Barber,,
+Matlab-Simulink-Simscape,Peter Barber,,
+SubVersion (SVN),Ed Stodola,,
+ValorNPI,Peter Barber,,
+BDI,Peter Barber,,
+DFMPro,Peter Barber,,
+Solidworks,Peter Barber,,
+ZWCAD,Gordan Yang,,
+Test Expert,Gordan Yang,,
+TestWay,Peter Barber,,
+Zemax Optic Studio,Peter Barber,,
+Essential Macleod,Peter Barber,,
+CARE,Peter Barber,,
+Test Expert,Wright Du,,
+ECAD,Tom Blaszczyk,,
+MCAD,Tom Blaszczyk,,
+Solidworks,Pedro Hernández,,
+BoM creation tool,Pedro Hernández,,
+Altium,Pedro Hernández,,
+Cadence,Pedro Hernández,,
+Testway,Pedro Hernández,,
+TestExpert,Pedro Hernández,,
+Testway,Sorin Petre,,
+TestExpert,Sorin Petre,,
+NI Lab View,Sorin Petre,,
+NI TestStand,Sorin Petre,,
+Orcad,Sorin Petre,,
+Altium,Sorin Petre,,
+Testway,Ed Stodola,,
+TestExpert,Ed Stodola,,
+NI LabView,Ed Stodola,,
+NI TestStand,Ed Stodola,,
+Altium,Ed Stodola,,
+CGP SVN - Subversion,Ed Stodola,,
+Non-CGP SVN - Subversion,Ed Stodola,,
+Git Hub,Ed Stodola,,
+Solidworks,Ed Stodola,,
+Cadence Allegro,Joyce Qu,,
+PTC Creo,Joyce Qu,,
+PTC Vuforia,Ivan Tan,,
+Xemelgo,Gavin Rade,Kurt Braganza,Gary Tang
+AMI Technology Access Agreement(TAA) & Technology License Agreement (TLA ),,Paul Stanners,
+PTC Winchill,Joyce Qu,Paul Stanners,
+Ansys LS-DYNA,Joyce Qu,,
+Altair Hypermesh,Joyce Qu,,
+Flortherm,Joyce Qu,,
+ENOVIA,Joyce Qu,,
+EtQ,Joyce Qu,Ashish Patnaik,
+Atlassian JIRA software (Server),Joyce Qu,,
+Atlassian JIRA software (Cloud),Joyce Qu,Paul Stanners,
+Redmine,Joyce Qu,,
+Keysight ADS,Joyce Qu,,
+Ansys SI Wave,Joyce Qu,,
+Valor Trilogy,Joyce Qu,,
+Atlassian Confluence,Joyce Qu,,
+ServiceNow,Joyce Qu,,
+SVN,Joyce Qu,,
+Gitlab,Joyce Qu,,
+Review Board,Joyce Qu,,
+Docker Registry,Joyce Qu,,
+Artifacts Build,Joyce Qu,,
+Gerrit,Joyce Qu,,
+Green Hills,Joyce Qu,,
+Jenkins,Joyce Qu,,
+StoreHouse,Joyce Qu,,
+SSL Share folder server,Joyce Qu,,
+,,,
+Ariba (Demised),Caterina Spence,,
+D3 Security,,,
+DocRecord,,,
+EY Pathway Mobility,John Shaughnessy,business managed,
+GAE,Multiple,Ivan Lin,
+Hardware Security Modules,,Kenneth Sheng,
+Loftware,Multiple,Marc McCrea,
+Milestone NVR,,,
+Data Loss Prevention (DLP),,,
+SAP Content Server,Anila Grove/Jeff Murphy,Eryka,
+SAP SLT,,Bernie Lui,
+SAP Solution Manager,,,
+Bartender,,,
+Codesoft,,,
+Peernet,,,
+Telerik,,,
+NetInspect,,,
+Appeon,Gabe Salonish,John Vaughn,
+Purview,,Kevin Tokar,
+SAP PP,,,
+SAP MM,,,
+SAP WMS,,,
+SAP SD,,,
+SAP FI,,,
+SAP CO,,,
